@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://astralgoose.com](https://astralgoose.com)
 
-- ⚡ Fun fact **I love all things space related**
+- ⚡ Fun fact **I'm terrified of Geese**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
