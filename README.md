@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, JavaScript and Node.js**
 
-- 👨‍💻 All of my projects are available at [https://astralgoose.com](https://astralgoose.com)
+- 👨‍💻 All of my projects are available right here on my Github
 
 - ⚡ Fun fact **I'm terrified of Geese**
 
