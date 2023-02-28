@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AstralGoose</h1>
 <h3 align="center">Just a guy who loves to make things 😊</h3>
 
-- 🌱 I’m currently learning **React, JavaScript and Node.js**
+- 🌱 I’m currently learning **React, Express, MongoDB, JavaScript and Node.js**
 
 - 👨‍💻 All of my projects are available right here on my Github
 
